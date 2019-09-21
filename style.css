@@ -1,0 +1,30 @@
+        /* CSS選擇器 */
+        /*標籤名稱選擇器*/
+        span{font-weight:bold}
+        body{background-color: #cccccc;font-family: "微軟正黑體","新細明體"}
+        /*ID選擇器*/
+        #del{text-decoration: line-through}
+        /*Class選擇器*/
+        .all{
+            background-color:rgb(144, 80, 187)
+        }
+        .title{
+            font-size: 24px;
+            font-weight: bold; 
+            color:white
+        }
+        .content{
+            height:auto;
+            width: auto;
+            border: 1px dashed rgb(255, 255, 255);
+            color: rgb(255, 235, 197);
+            padding: 5px;
+            margin-top:10px;
+            text-align: center;
+        }
+        .keyward{
+            color: rgb(47, 19, 126)
+        }
+        .underline{
+            text-decoration: underline
+        }
